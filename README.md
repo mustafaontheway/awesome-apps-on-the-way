@@ -1,7 +1,7 @@
-# web3-apps-on-the-way
-
 Vue Composition API 
+
+Quasar
 
 Tailwind
 
-Smart Contracts
+...
